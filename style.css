@@ -112,10 +112,11 @@ a {
     }
 
     button {
-        margin-top: 10px;
+        margin-top: 20px;
     }
 
     a {
-        position: relative; 
+        position: relative;
+        margin-top: 20px; 
     }
   }
