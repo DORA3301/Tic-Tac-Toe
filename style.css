@@ -79,7 +79,7 @@ button:hover {
 }
 
 a {
-    position: absolute; 
+    position: fixed; 
     bottom: 0; 
     margin-bottom: 15px;
     text-decoration: none;
